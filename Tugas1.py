@@ -7,3 +7,4 @@ str_val = str_val.replace("u", "a")
 str_val = str_val.replace("i", "a")
 
 print(str_val)
+print("Ini Tugas Day 2 | Python 1")
