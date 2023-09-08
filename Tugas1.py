@@ -8,3 +8,4 @@ str_val = str_val.replace("i", "a")
 
 print(str_val)
 print("Ini Tugas Day 2 | Python 1")
+print("Tugas 1.py DONE")
